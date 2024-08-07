@@ -3,14 +3,11 @@
 This project aims to perform an Exploratory Data Analysis (EDA) on the Zomato dataset to uncover insights and patterns related to restaurant listings, customer preferences, and other relevant aspects. The dataset includes various attributes such as restaurant names, locations, ratings, cuisines, and whether online ordering is available.
 
 ## Table of Contents
-* Project Structure
+
 * Dataset
-* Installation
 * Usage
 * Analysis
 * Results
-* Contributing
-* License
 
 ## Dataset
 * Source: The Zomato dataset can be found [here](https://github.com/nayab24/EDA-on-Zomato-data/blob/main/Zomato%20data%20.csv).
